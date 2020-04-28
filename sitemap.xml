@@ -16,7 +16,28 @@
   </url>
   
   <url>
+    <loc>http://finiteandinfinite.com/categories/</loc>
+    <lastmod>2020-04-28T20:50:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://finiteandinfinite.com/categories/educated/</loc>
+    <lastmod>2020-04-28T20:50:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://finiteandinfinite.com/post/</loc>
+    <lastmod>2020-04-28T20:50:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://finiteandinfinite.com/tags/</loc>
     <lastmod>2020-04-28T20:50:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -30,13 +51,8 @@
   </url>
   
   <url>
-    <loc>http://finiteandinfinite.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://finiteandinfinite.com/tags/</loc>
+    <loc>http://finiteandinfinite.com/tags/%E5%8F%A4%E8%AF%97/</loc>
+    <lastmod>2020-04-28T20:50:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
